@@ -23,7 +23,7 @@ A Pokémon browsing application built with React, TypeScript, and Vite that prov
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sillylobster/pokedex-app.git
 cd pokedex
 ```
 
